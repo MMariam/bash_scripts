@@ -1,0 +1,5 @@
+echo This is a test run of the script. | cat>>test_run.txt
+./exit
+cat ~/Projects/bash_scripts/log/`date +%Y-%m-%d`.log | 
+cat>>test_run.txt
+echo Test run is saved in test_run.txt

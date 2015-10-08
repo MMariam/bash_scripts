@@ -1,0 +1,191 @@
+    1  ls
+    2  cd Projects
+    3  git remote add origin git@github.com:MMariam/bash_scripts.git
+    4  git remote -v
+    5  git push origin master
+    6  exit
+    7  git
+    8  git init
+    9  git config --global user.name "Mary H Abgarian"
+   10  git config --global user.email m.mariam.cs@gmail.com
+   11  git config --global core.editor nano
+   12  git --version
+   13  git config --global credential.helper wincred
+   14  git config --global credential.helper cache
+   15  cd /home/Mariam/.git
+   16  ls
+   17  cd ../
+   18  ls
+   19  ls
+   20  ls -a
+   21  cd ../
+   22  cd Mariam
+   23  ls
+   24  rm .git
+   25  rm -r .git
+   26  mkdir Projects
+   27  cd Projects
+   28  ls
+   29  init git
+   30  git init
+   31  ls
+   32  ls -a
+   33  touch exit
+   34  nano exit
+   35  cd ../
+   36  ls
+   37  ls -a
+   38  cd Projects
+   39  ls
+   40  ls -a
+   41  git add .
+   42  git commit -m "First (local) commit"
+   43  ls -al ~/.ssh
+   44  cd .git
+   45  ls -al ~/.ssh
+   46  cd ../
+   47  cd ../../../
+   48  cd ~
+   49  lynx -source rawgit.com/transcode-open/apt-cyg/master/apt-cyg > apt-cyg
+   50  install apt-cyg /bin
+   51  apt-cyg install nano
+   52  apt-cyg install svn
+   53  nano ~/.bash_profile
+   54  source ~/.bash_profile
+   55  apt-get install nano
+   56  mkdir Downloads
+   57  mv sub*.tar.gz Downloads
+   58  ls
+   59  cd ../../
+   60  ls
+   61  mv sub*.tar.gz /home/Mariam/Downloads
+   62  cd /home/Mariam/Downloads
+   63  ls
+   64  tar -xzvf sub*.tar.gz
+   65  scn
+   66  svn
+   67  ls
+   68  cd sub*.2
+   69  ls
+   70  ./configure
+   71  cd ../
+   72  tar -xzvf apr*.tar.gz
+   73  cd apr*.2
+   74  ls
+   75  ./configure
+   76  ./configure
+   77  cd ../
+   78  ls
+   79  cd sub*.2
+   80  ls
+   81  ./configure
+   82  apr
+   83  cd../
+   84  cd ../
+   85  ls
+   86  cd apr*.2
+   87  make
+   88  cd ~
+   89  apt-get install make
+   90  ls
+   91  cd Downloads
+   92  ls
+   93  cd apr*.tar.gz
+   94  cd apr*.2
+   95  make
+   96  cd ../
+   97  ls
+   98  cd sub*.2
+   99  apr
+  100  cd ../
+  101  cd apr*.2
+  102  make install
+  103  apr
+  104  man apr
+  105  cd ../
+  106  ls
+  107  cd subversion*.2
+  108  ./configure
+  109  apr
+  110  nano ~/.bash_profile
+  111  history
+  112  ls
+  113  cd Projects
+  114  ls
+  115  git add .
+  116  git commit -m "First Local Commit"
+  117  ls
+  118  cat exit
+  119  git init
+  120  git add .
+  121  git commit -m "first commit"
+  122  git status
+  123  ls -a
+  124  rm -r .git
+  125  git init
+  126  add .
+  127  git add .
+  128  git commit -m "first commit"
+  129  git remote add origin On branch master
+  130  nothing to commit, working directory clean
+  131  git remote add origin https://github.com/MMariam/bash_scripts.git
+  132  git remote -v
+  133  git push origin master
+  134  git push origin master
+  135  git clone https://github.com/MMariam/bash_scripts.git
+  136  ls
+  137  mv exit bash_scripts
+  138  ls
+  139  git push origin master
+  140  git push --help
+  141  git pull --help
+  142  git pull
+  143  git push origin master
+  144  git pull origin
+  145  git pull origin bash_scripts
+  146  git remote
+  147  git remote -v
+  148  git fetch github
+  149  git fetch bash_scripts
+  150  git push origin master
+  151  git fetch --all
+  152  git push origin master
+  153  git push -f origin master
+  154  cd ../../
+  155  cd ../
+  156  cd ~
+  157  cd Projects
+  158  ls
+  159  ./bash_scripts
+  160  cd bash_scripts
+  161  ls
+  162  ./exit
+  163  cd ../
+  164  cd ../
+  165  ls
+  166  cd ../
+  167  cd ../
+  168  ls
+  169  cd ~
+  170  ls
+  171  cd Projects
+  172  cd bash_scripts
+  173  ls
+  174  echo This is a test run of the script | cat >>example.txt 
+  175  cat 2015*.txt | cat >> example.txt
+  176  nano example.txt
+  177  touch test_run
+  178  rm test_run
+  179  touch test_run.txt
+  180  ./exit | cat > test_run.txt | cat > test_run
+  181  ls
+  182  nano test_run.txt
+  183  ./test_run
+  184  cat test_run.txt
+  185  nano test_run.txt
+  186  nano test_run
+  187  ./test_run
+  188  nano test_run.txt
+  189  nano test_run
+  190  nano test_run
+  191  ./test_run
