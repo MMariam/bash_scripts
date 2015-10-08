@@ -1,1 +1,3 @@
+#!/bin/sh
+
 history > ~/Projects/bash_scripts/log/`date +%Y-%m-%d`.log; exit
