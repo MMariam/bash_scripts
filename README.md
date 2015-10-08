@@ -12,6 +12,6 @@ different exit command. After running this script, the exit command can
 be used and it will commit the additional functions before the terminal 
 exits
 #
-running the exit script by itself, will perform it's additional 
+Running the exit script by itself, will perform it's additional 
 functions and exit the terminal session. 
 
